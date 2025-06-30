@@ -185,23 +185,6 @@ We welcome contributions to MediPromptAI! Please follow these steps:
 
 **Important Medical Disclaimer**: MediPromptAI is designed for educational and informational purposes only. It is not intended to replace professional medical advice, diagnosis, or treatment. Always seek the advice of qualified healthcare providers with any questions regarding medical conditions. Never disregard professional medical advice or delay seeking treatment based on information from this application.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Medical terminology and guidelines from WHO and ICD-10
-- UI/UX inspiration from leading healthcare applications
-- Icons provided by [Lucide React](https://lucide.dev/)
-- Built with modern web technologies and best practices
-
-## 📞 Support
-
-For support, email support@medipromptai.com or join our community discussions.
-
----
-
 **Made with ❤️ for better healthcare accessibility**
 
 *MediPromptAI - Empowering patients with AI-driven health insights*
