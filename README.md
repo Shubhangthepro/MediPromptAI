@@ -1,6 +1,7 @@
 # 🩺 MediPromptAI
 
 **Your AI Medical Assistant for Health Reports & Symptom Analysis**
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-MediPromptAI-00bfff?style=for-the-badge&logo=netlify)](https://medipromptai.netlify.app/)
 
 *"From Symptoms to Solutions — in Seconds."*
 
